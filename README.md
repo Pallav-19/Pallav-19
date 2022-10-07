@@ -2,15 +2,15 @@
 <h3 align="center">A Full-Stack developer from India</h3>
 
 # 💫About Me :
-🔭 I’m currently working on a video calling application
+🔭 I’m currently working on a chat application
 
-🌱 I’m currently learning Django Rest Framework and ReactJS
+🌱 I’m currently learning Next.js and Redux
 
 👯 I’m looking to collaborate on an Open Source Project or Freelance Project
 
 👨‍💻 All of my projects are available at https://github.com/Pallav-19
 
-💬 Ask me about Angular and NodeJS
+💬 Ask me about React.js and Node.js
 
 📫 How to reach me pallavinvizag@gmail.com
 
