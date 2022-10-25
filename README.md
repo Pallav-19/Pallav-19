@@ -25,6 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Pallav-19&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pallav-19&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallav-19&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![@pallav's Holopin board](https://holopin.me/pallav)](https://holopin.io/@pallav)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pallav-19&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
