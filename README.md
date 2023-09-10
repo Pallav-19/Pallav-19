@@ -4,7 +4,7 @@
 # 💫About Me :
 🔭 I’m currently working on a chat application
 
-🌱 I’m currently learning Next.js and Redux
+🌱 I’m currently learning NestJS and Spring Boot
 
 👯 I’m looking to collaborate on an Open Source Project or Freelance Project
 
